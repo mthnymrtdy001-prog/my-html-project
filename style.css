@@ -72,7 +72,7 @@ footer {
 .contact {
     max-width: 600px;
     margin: auto 40px;
-    background-color: #ffffff;
+    background-color: blue;
     padding: 30px;
     border-radius: 15px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -103,12 +103,12 @@ footer {
 .contact input:focus,
 .contact textarea:focus {
     outline: none;
-    border-color: #ff9800;
+    border-color: blue;
     box-shadow: 0 05px rgba(255, 152, 0, 0.5);
 }
 
 .contact button {
-    background: linear-gradient(to left, #ff9800, #f44336);
+    background: linear-gradient(to left, blue, #f44336);
     color: white;
     padding: 14px;
     font-size: 18px;
@@ -126,7 +126,7 @@ footer {
 .contact-info {
     text-align: center;
     margin-top: 25px;
-    color: #444;
+    color: blue;
     font-size: 15px;
 }
 
