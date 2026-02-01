@@ -133,3 +133,14 @@ footer {
 .contact-info p {
     margin: 8px 0;
 }
+
+////////للجوال//////////
+@media(max-width:600px){
+    .contact{
+        margin:20px;
+        padding:20px;
+    }
+    .contact h2{
+        font-size:24px;
+    }
+}
